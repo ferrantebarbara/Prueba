@@ -4,3 +4,11 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#cabecera
+{
+    color:gray;
+    text-shadow: hotpink;
+    font-family: cursive;
+    height: 50px;
+}
