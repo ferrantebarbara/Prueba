@@ -1,0 +1,54 @@
+[33mcommit 9bce45beaba9f3e56672dd4bbfbb79fa51656986[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Thu Jan 7 21:23:46 2021 -0300
+
+    otro cambio en historia
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit b4a9aa79dfe6758f50a24dedcaa59e95c758dd06[m
+Author: Your Name <you@example.com>
+Date:   Thu Jan 7 21:22:46 2021 -0300
+
+    Cambio en ultima linea de historia
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 38c4f52de42b7f627fdce9f3bb678250be297d94[m
+Author: Your Name <you@example.com>
+Date:   Thu Jan 7 21:21:12 2021 -0300
+
+    Comienzo mi proyecto real con html y css
+
+ articulo.html   | 15 [32m+++++++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 21 insertions(+)
+
+[33mcommit 8f1a0616b280e299c93abd5ff99fa6c0996f1e23[m
+Author: Barbara Ferrante <barbaraferrante.git@gmail.com>
+Date:   Thu Jan 7 20:34:21 2021 -0300
+
+    commit nuevo con linea agregada
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 3aa4b1f198c468c3b3275bdb73b12963c29a83e6[m
+Author: Barbara Ferrante <barbaraferrante.git@gmail.com>
+Date:   Mon Jan 4 08:20:07 2021 -0300
+
+    este commit tiene cambios en historia
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit ba58bfcddd9dc7fb616d4d01d1c47df9051ed5d2[m
+Author: Barbara Ferrante <barbaraferrante.git@gmail.com>
+Date:   Mon Jan 4 08:15:22 2021 -0300
+
+    Este es el primer commit
+
+ historia.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)

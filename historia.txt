@@ -1,7 +1,5 @@
 Esta es una historia...
 
-La misma historia pero modificada.
+La misma historia
 
-Esta es una nueva linea que le hago al archivo.
-
-Agrego un parrafo mas con modificacion y algunas cosas mas.
+Una nueva modificacion con checkout
