@@ -3,6 +3,7 @@ body
     color: forestgreen;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: khaki;
 }
 
 #cabecera
@@ -15,5 +16,5 @@ body
 
 #footer
 {
-    text-shadow: lightgreen;
+    font-family: sans-serif;
 }
