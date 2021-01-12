@@ -12,3 +12,8 @@ body
     font-family: cursive;
     height: 50px;
 }
+
+#footer
+{
+    background-color: lightcoral;
+}
